@@ -202,16 +202,28 @@ Web-based POS system, audited & refined across multiple phases for real retail d
 ### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bilalaleem5&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bilalaleem5&theme=react&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=bilalaleem5&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&ring_color=00ff88" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=bilalaleem5&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=c9d1d9&dates=c9d1d9" height="165"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalaleem5&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalaleem5&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9" height="165"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bilalaleem5&theme=react&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&hide_border=true" width="95%"/>
+
+### 🏆 Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=bilalaleem5&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="95%"/>
+
+</div>
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/bilalaleem5/bilalaleem5/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+
 </div>
 
 ---
