@@ -6,10 +6,10 @@
     <br/><br/>
     <img src="https://img.shields.io/badge/🟢_Open_to_Full_Time_%2F_Remote_AI_Engineering_Roles-CCFF00?style=for-the-badge&logoColor=000000&labelColor=0a0a0a&color=CCFF00"/>
     <br/><br/>
-    <a href="https://www.linkedin.com/in/bilalaleem"><img src="https://img.shields.io/badge/LinkedIn-CCFF00?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=0a0a0a"/></a>
+    <a href="https://www.linkedin.com/in/bilalaleem5"><img src="https://img.shields.io/badge/LinkedIn-CCFF00?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=0a0a0a"/></a>
     <a href="mailto:Bilal.aleem2406@gmail.com"><img src="https://img.shields.io/badge/Gmail-CCFF00?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=0a0a0a"/></a>
     <a href="https://www.upwork.com/freelancers/~010614a79570ae4b31"><img src="https://img.shields.io/badge/Upwork-CCFF00?style=for-the-badge&logo=Upwork&logoColor=000000&labelColor=0a0a0a"/></a>
-    <a href="https://github.com/BilalAleem"><img src="https://img.shields.io/badge/GitHub-CCFF00?style=for-the-badge&logo=github&logoColor=000000&labelColor=0a0a0a"/></a>
+    <a href="https://github.com/bilalaleem5"><img src="https://img.shields.io/badge/GitHub-CCFF00?style=for-the-badge&logo=github&logoColor=000000&labelColor=0a0a0a"/></a>
 </div>
 
 <br/>
@@ -33,7 +33,7 @@
                 </p>
             </td>
             <td width="40%" align="center">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilalAleem&layout=compact&theme=dark&bg_color=0a0a0a&title_color=CCFF00&text_color=ffffff&border_color=1a2e05&hide_border=false&cache_seconds=1800" width="100%"/>
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalaleem5&layout=compact&theme=dark&bg_color=0a0a0a&title_color=CCFF00&text_color=ffffff&border_color=1a2e05&hide_border=false&cache_seconds=1800" width="100%"/>
             </td>
         </tr>
     </table>
@@ -66,10 +66,10 @@
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=1&pause=1000&color=CCFF00&center=true&vCenter=true&width=500&lines=📊+Live+Metrics+Dashboard" alt="Live Metrics"/>
     <br/><br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=BilalAleem&show_icons=true&count_private=true&theme=dark&bg_color=0a0a0a&title_color=CCFF00&text_color=ffffff&icon_color=CCFF00&border_color=1a2e05&hide_border=false&cache_seconds=1800" width="48%"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BilalAleem&theme=dark&background=0a0a0a&border=1a2e05&ring=CCFF00&fire=CCFF00&currStreakLabel=CCFF00&sideLabels=ffffff&dates=ffffff&sideNums=ffffff&currStreakNum=ffffff&stroke=1a2e05&cache_seconds=1800" width="48%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=bilalaleem5&show_icons=true&count_private=true&theme=dark&bg_color=0a0a0a&title_color=CCFF00&text_color=ffffff&icon_color=CCFF00&border_color=1a2e05&hide_border=false&cache_seconds=1800" width="48%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilalaleem5&theme=dark&background=0a0a0a&border=1a2e05&ring=CCFF00&fire=CCFF00&currStreakLabel=CCFF00&sideLabels=ffffff&dates=ffffff&sideNums=ffffff&currStreakNum=ffffff&stroke=1a2e05&cache_seconds=1800" width="48%"/>
     <br/><br/>
-    <img src="https://github-profile-trophy.vercel.app/?username=BilalAleem&theme=darkhub&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&bg_color=0a0a0a" width="70%"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=bilalaleem5&theme=darkhub&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&bg_color=0a0a0a" width="70%"/>
 </div>
 
 <br/>
@@ -227,7 +227,7 @@
         If your team needs someone who can take an agent from idea → production, let's talk.
     </p>
     <br/>
-    <a href="https://www.linkedin.com/in/bilalaleem"><img src="https://img.shields.io/badge/Message_me_on_LinkedIn-CCFF00?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=0a0a0a"/></a>
+    <a href="https://www.linkedin.com/in/bilalaleem5"><img src="https://img.shields.io/badge/Message_me_on_LinkedIn-CCFF00?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=0a0a0a"/></a>
     <a href="mailto:Bilal.aleem2406@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-CCFF00?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=0a0a0a"/></a>
     <a href="https://www.upwork.com/freelancers/~010614a79570ae4b31"><img src="https://img.shields.io/badge/Hire_on_Upwork-CCFF00?style=for-the-badge&logo=upwork&logoColor=000000&labelColor=0a0a0a"/></a>
     <br/><br/><br/>
