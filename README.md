@@ -2,21 +2,19 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a2e05,100:CCFF00&height=250&section=header&text=BILAL%20ALEEM&fontSize=52&fontColor=CCFF00&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%94%20Multi-Agent%20Systems%20%26%20LLM%20Automation&descAlignY=58&descSize=17&descColor=ffffff" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2500&pause=900&color=CCFF00&center=true&vCenter=true&width=600&lines=LangChain+%2B+LangGraph+%2B+RAG;n8n+%7C+Voice+AI+%7C+LLM+Ops;3%2B+Years+%7C+60%2B+Shipped+Builds;Open+to+Full-Time+%2F+Remote+Roles" alt="Typing SVG"/>
+**LangChain · LangGraph · RAG Pipelines · n8n · Voice AI · LLM Ops**
+<br/>
+🟢 Open to Full-Time / Remote AI Engineering Roles
 
-<br/><br/>
+<br/>
 
 <a href="https://www.linkedin.com/in/bilalaleem"><img src="https://img.shields.io/badge/LinkedIn-CCFF00?style=for-the-badge&logo=linkedin&logoColor=000000"/></a>
 <a href="mailto:Bilal.aleem2406@gmail.com"><img src="https://img.shields.io/badge/Gmail-CCFF00?style=for-the-badge&logo=gmail&logoColor=000000"/></a>
+<a href="https://www.upwork.com/freelancers/~010614a79570ae4b31"><img src="https://img.shields.io/badge/Upwork-CCFF00?style=for-the-badge&logo=Upwork&logoColor=000000"/></a>
 
 </div>
 
 <br/>
-
-<img src="https://img.shields.io/badge/-%F0%9F%9F%A2%20OPEN%20TO%20WORK-CCFF00?style=for-the-badge&logoColor=000000" align="center"/>
-
-<table width="100%">
-<tr><td>
 
 ### 🧠 About Me
 
@@ -29,18 +27,19 @@ experience:    3+ years | 60+ projects shipped
 stack:         LangGraph · LangChain · Claude API · FastAPI · n8n
 currently:     Final-year @ FAST-NUCES (Expected June 2026)
 daily_driver:  Claude Code ⚡ (4-5 hrs/day)
-status:        🟢 Open to full-time / remote roles
 ```
 
-</td></tr>
-</table>
+<br/>
 
-<img src="https://img.shields.io/badge/Repos-50%2B-CCFF00?style=for-the-badge&logo=github&logoColor=000000"/>
-<img src="https://img.shields.io/badge/Projects_Shipped-60%2B-CCFF00?style=for-the-badge&logo=rocket&logoColor=000000"/>
-<img src="https://img.shields.io/badge/Experience-3%2B_Years-CCFF00?style=for-the-badge&logo=briefcase&logoColor=000000"/>
-<img src="https://img.shields.io/github/followers/bilalaleem5?style=for-the-badge&color=CCFF00&logo=github&logoColor=000000&label=FOLLOWERS"/>
+### 📊 Live Metrics Dashboard
 
-<br/><br/>
+<div align="center">
+<img src="./github-metrics.svg" width="100%"/>
+</div>
+
+> Auto-generated daily — 3D contribution calendar, language breakdown, commit habits, and achievements.
+
+<br/>
 
 ### 🛠️ Tech Arsenal
 
@@ -132,18 +131,6 @@ Amazon Product Extractor · Are.na / Visuelle / Extraweg / Lovely Package / Logo
 Geometry Nodes Wall Generator · ZigZag Curve · Procedural Asset Generation · Game Logic Visual Scripting
 
 </details>
-
-<br/>
-
-### 📈 Activity
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bilalaleem5&theme=dark&hide_border=true&background=0a0a0a&ring=CCFF00&fire=CCFF00&currStreakLabel=CCFF00&sideLabels=ffffff&dates=cccccc" height="165"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bilalaleem5&theme=react-dark&bg_color=0a0a0a&color=CCFF00&line=CCFF00&point=ffffff&hide_border=true&area=true" width="95%"/>
-</div>
 
 <br/>
 
