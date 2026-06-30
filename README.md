@@ -1,90 +1,71 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2818,100:00ff88&height=260&section=header&text=Hey,%20I'm%20Bilal%20%F0%9F%91%8B&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20building%20agents%20that%20actually%20ship&descAlignY=55&descSize=18&descColor=00ff88" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a2e05,100:CCFF00&height=250&section=header&text=BILAL%20ALEEM&fontSize=52&fontColor=CCFF00&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%94%20Multi-Agent%20Systems%20%26%20LLM%20Automation&descAlignY=58&descSize=17&descColor=ffffff" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Multi-Agent+Systems+%7C+LangGraph+%2B+LangChain;RAG+Pipelines+%2B+Vector+Search+at+Scale;n8n+Automation+%7C+Voice+AI+%7C+LLM+Ops;3%2B+Years+%7C+60%2B+Shipped+Projects;Open+to+Full-Time+%2F+Remote+Roles+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2500&pause=900&color=CCFF00&center=true&vCenter=true&width=600&lines=LangChain+%2B+LangGraph+%2B+RAG;n8n+%7C+Voice+AI+%7C+LLM+Ops;3%2B+Years+%7C+60%2B+Shipped+Builds;Open+to+Full-Time+%2F+Remote+Roles" alt="Typing SVG"/>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/bilalaleem"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:Bilal.aleem2406@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.upwork.com/freelancers/~010614a79570ae4b31"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=Upwork&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=bilalaleem5&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS"/>
+<a href="https://www.linkedin.com/in/bilalaleem"><img src="https://img.shields.io/badge/LinkedIn-CCFF00?style=for-the-badge&logo=linkedin&logoColor=000000"/></a>
+<a href="mailto:Bilal.aleem2406@gmail.com"><img src="https://img.shields.io/badge/Gmail-CCFF00?style=for-the-badge&logo=gmail&logoColor=000000"/></a>
+<a href="https://www.upwork.com/freelancers/~010614a79570ae4b31"><img src="https://img.shields.io/badge/Upwork-CCFF00?style=for-the-badge&logo=Upwork&logoColor=000000"/></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff88&height=2&width=100%"/>
+<br/>
 
-<table>
-<tr>
-<td width="60%" valign="top">
+<img src="https://img.shields.io/badge/-%F0%9F%9F%A2%20OPEN%20TO%20WORK-CCFF00?style=for-the-badge&logoColor=000000" align="center"/>
+
+<table width="100%">
+<tr><td>
 
 ### 🧠 About Me
 
-I build **production-grade AI systems** — multi-agent pipelines that don't just demo well, they run in the wild, handle edge cases, and replace actual headcount. Currently finishing my B.S. in Data Science while shipping for clients across the US, EU, and APAC.
+I build **production AI systems** — multi-agent pipelines that don't just demo well, they run in production, handle edge cases, and replace actual headcount. Final-year Data Science student shipping for clients across the US, EU, and APAC.
 
-```
-const bilal = {
-  role: "AI Engineer",
-  based_in: "Islamabad, Pakistan 🇵🇰",
-  stack: ["LangGraph", "LangChain", "Claude API", "FastAPI", "n8n"],
-  currently: "Final-year Data Science @ FAST-NUCES",
-  daily_driver: "Claude Code ⚡ (4-5 hrs/day)",
-  obsessed_with: "agents that actually finish the job",
-  status: "🟢 Open to full-time / remote opportunities"
-};
+```yaml
+role:          AI Engineer
+location:      Islamabad, Pakistan 🇵🇰
+experience:    3+ years | 60+ projects shipped
+stack:         LangGraph · LangChain · Claude API · FastAPI · n8n
+currently:     Final-year @ FAST-NUCES (Expected June 2026)
+daily_driver:  Claude Code ⚡ (4-5 hrs/day)
+status:        🟢 Open to full-time / remote roles
 ```
 
-</td>
-<td width="40%" valign="top">
-
-### ⚡ Quick Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=bilalaleem5&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&ring_color=00ff88" width="100%"/>
-
-</td>
-</tr>
+</td></tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff88&height=2&width=100%"/>
+<img src="https://img.shields.io/badge/Repos-50%2B-CCFF00?style=for-the-badge&logo=github&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Projects_Shipped-60%2B-CCFF00?style=for-the-badge&logo=rocket&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Experience-3%2B_Years-CCFF00?style=for-the-badge&logo=briefcase&logoColor=000000"/>
+<img src="https://img.shields.io/github/followers/bilalaleem5?style=for-the-badge&color=CCFF00&logo=github&logoColor=000000&label=FOLLOWERS"/>
+
+<br/><br/>
 
 ### 🛠️ Tech Arsenal
 
 <div align="center">
-
-**LLM & Agentic**
-<br/>
-<img src="https://skillicons.dev/icons?i=py,fastapi,nodejs&theme=dark"/>
-&nbsp;<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-
-<br/><br/>
-
-**Core Stack**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,ts,js,flask,react,nextjs,vue,tailwind&theme=dark"/>
-
-<br/><br/>
-
-**Data & Infra**
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,docker,gcp,aws,git,github,linux,bash&theme=dark"/>
-
-<br/><br/>
-
-**Automation & ML**
-<br/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,ts,js,flask,react,nextjs,vue,tailwind,postgres,redis,mongodb,docker,gcp,aws,git,github,linux,bash,selenium&theme=dark&perline=11"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff88&height=2&width=100%"/>
+<br/>
+
+<div align="center">
+<img src="https://img.shields.io/badge/LangChain-CCFF00?style=flat-square&logoColor=000000"/>
+<img src="https://img.shields.io/badge/LangGraph-CCFF00?style=flat-square&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Claude_API-CCFF00?style=flat-square&logo=anthropic&logoColor=000000"/>
+<img src="https://img.shields.io/badge/OpenAI-CCFF00?style=flat-square&logo=openai&logoColor=000000"/>
+<img src="https://img.shields.io/badge/CrewAI-CCFF00?style=flat-square&logoColor=000000"/>
+<img src="https://img.shields.io/badge/n8n-CCFF00?style=flat-square&logo=n8n&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Pinecone-CCFF00?style=flat-square&logoColor=000000"/>
+<img src="https://img.shields.io/badge/FAISS-CCFF00?style=flat-square&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Scikit_Learn-CCFF00?style=flat-square&logo=scikitlearn&logoColor=000000"/>
+<img src="https://img.shields.io/badge/TensorFlow-CCFF00?style=flat-square&logo=tensorflow&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Pandas-CCFF00?style=flat-square&logo=pandas&logoColor=000000"/>
+</div>
+
+<br/>
 
 ### 🚀 Flagship Builds
 
@@ -153,26 +134,19 @@ Geometry Nodes Wall Generator · ZigZag Curve · Procedural Asset Generation · 
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff88&height=2&width=100%"/>
-
-### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=bilalaleem5&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=10"/>
-</div>
+<br/>
 
 ### 📈 Activity
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bilalaleem5&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=c9d1d9&dates=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalaleem5&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bilalaleem5&theme=dark&hide_border=true&background=0a0a0a&ring=CCFF00&fire=CCFF00&currStreakLabel=CCFF00&sideLabels=ffffff&dates=cccccc" height="165"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bilalaleem5&theme=react-dark&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bilalaleem5&theme=react-dark&bg_color=0a0a0a&color=CCFF00&line=CCFF00&point=ffffff&hide_border=true&area=true" width="95%"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff88&height=2&width=100%"/>
+<br/>
 
 <div align="center">
 
@@ -180,11 +154,11 @@ Geometry Nodes Wall Generator · ZigZag Curve · Procedural Asset Generation · 
 
 I'm actively looking for **full-time / remote AI Engineering roles**. If your team needs someone who can take an agent from idea → production, let's talk.
 
-<a href="https://www.linkedin.com/in/bilalaleem"><img src="https://img.shields.io/badge/Message_me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:Bilal.aleem2406@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/bilalaleem"><img src="https://img.shields.io/badge/Message_me_on_LinkedIn-CCFF00?style=for-the-badge&logo=linkedin&logoColor=000000"/></a>
+<a href="mailto:Bilal.aleem2406@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-CCFF00?style=for-the-badge&logo=gmail&logoColor=000000"/></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:0a2818,100:0d1117&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CCFF00,50:1a2e05,100:0a0a0a&height=130&section=footer"/>
 
 </div>
