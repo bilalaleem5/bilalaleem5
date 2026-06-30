@@ -3,7 +3,7 @@ name: Generate Metrics Dashboard
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"   # daily refresh at midnight UTC
+    - cron: "0 0 * * *"   # daibly refresh at midnight UTC
   push:
     branches: [ main ]
 
