@@ -1,113 +1,164 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a2e05,100:CCFF00&height=200&section=header&text=BILAL%20ALEEM&fontSize=50&fontColor=CCFF00&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Engineer%20%7C%20LLM%20Automation&descAlignY=58&descSize=16&descColor=ffffff" width="100%"/>
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=500&color=CCFF00&center=true&vCenter=true&width=500&lines=LangChain+%C2%B7+LangGraph+%C2%B7+RAG+%C2%B7+n8n+%C2%B7+Voice+AI+%C2%B7+LLM+Ops" alt="Typing SVG"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/🟢_Open_to_Work_%7C_Remote_AI_Engineer-CCFF00?style=for-the-badge&logoColor=000000&labelColor=0a0a0a&color=CCFF00"/>
-  <br/><br/>
-  <a href="https://www.linkedin.com/in/bilalaleem5"><img src="https://img.shields.io/badge/LinkedIn-CCFF00?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=0a0a0a"/></a>
-  <a href="mailto:bilal.aleem5@example.com"><img src="https://img.shields.io/badge/Gmail-CCFF00?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=0a0a0a"/></a>
-  <a href="https://github.com/bilalaleem5"><img src="https://img.shields.io/badge/GitHub-CCFF00?style=for-the-badge&logo=github&logoColor=000000&labelColor=0a0a0a"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a2e05,100:CCFF00&height=250&section=header&text=BILAL%20ALEEM&fontSize=52&fontColor=CCFF00&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%94%20Multi-Agent%20Systems%20%26%20LLM%20Automation&descAlignY=58&descSize=17&descColor=ffffff" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2500&pause=900&color=CCFF00&center=true&vCenter=true&width=600&lines=LangChain+%2B+LangGraph+%2B+RAG;n8n+%7C+Voice+AI+%7C+LLM+Ops;3%2B+Years+%7C+60%2B+Shipped+Builds;Open+to+Full-Time+%2F+Remote+Roles" alt="Typing SVG"/>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/bilalaleem"><img src="https://img.shields.io/badge/LinkedIn-CCFF00?style=for-the-badge&logo=linkedin&logoColor=000000"/></a>
+<a href="mailto:Bilal.aleem2406@gmail.com"><img src="https://img.shields.io/badge/Gmail-CCFF00?style=for-the-badge&logo=gmail&logoColor=000000"/></a>
+<a href="https://www.upwork.com/freelancers/~010614a79570ae4b31"><img src="https://img.shields.io/badge/Upwork-CCFF00?style=for-the-badge&logo=Upwork&logoColor=000000"/></a>
+
 </div>
 
 <br/>
 
-<!-- ======== PROFILE METRICS (LOWLIGHTER) ======== -->
+<img src="https://img.shields.io/badge/-%F0%9F%9F%A2%20OPEN%20TO%20WORK-CCFF00?style=for-the-badge&logoColor=000000" align="center"/>
+
+<table width="100%">
+<tr><td>
+
+### 🧠 About Me
+
+I build **production AI systems** — multi-agent pipelines that don't just demo well, they run in production, handle edge cases, and replace actual headcount. Final-year Data Science student shipping for clients across the US, EU, and APAC.
+
+```yaml
+role:          AI Engineer
+location:      Islamabad, Pakistan 🇵🇰
+experience:    3+ years | 60+ projects shipped
+stack:         LangGraph · LangChain · Claude API · FastAPI · n8n
+currently:     Final-year @ FAST-NUCES (Expected June 2026)
+daily_driver:  Claude Code ⚡ (4-5 hrs/day)
+status:        🟢 Open to full-time / remote roles
+```
+
+</td></tr>
+</table>
+
+<img src="https://img.shields.io/badge/Repos-50%2B-CCFF00?style=for-the-badge&logo=github&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Projects_Shipped-60%2B-CCFF00?style=for-the-badge&logo=rocket&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Experience-3%2B_Years-CCFF00?style=for-the-badge&logo=briefcase&logoColor=000000"/>
+<img src="https://img.shields.io/github/followers/bilalaleem5?style=for-the-badge&color=CCFF00&logo=github&logoColor=000000&label=FOLLOWERS"/>
+
+<br/><br/>
+
+### 🛠️ Tech Arsenal
+
 <div align="center">
-  <img src="https://metrics.lecoq.io/bilalaleem5?template=classic&isocalendar=1&languages=1&habits=1&activity=1&achievements=1&repositories=1&introduction=1&stars=1&forks=1&watchers=1&followers=1&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0" width="100%"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,ts,js,flask,react,nextjs,vue,tailwind,postgres,redis,mongodb,docker,gcp,aws,git,github,linux,bash,selenium&theme=dark&perline=11"/>
 </div>
 
 <br/>
 
-<!-- ======== GITHUB STATS (ALTERNATIVE) ======== -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bilalaleem5&show_icons=true&count_private=true&theme=dark&bg_color=0a0a0a&title_color=CCFF00&text_color=ffffff&icon_color=CCFF00&border_color=1a2e05&hide_border=false" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilalaleem5&theme=dark&background=0a0a0a&border=1a2e05&ring=CCFF00&fire=CCFF00&currStreakLabel=CCFF00&sideLabels=ffffff&dates=ffffff" width="48%"/>
+<img src="https://img.shields.io/badge/LangChain-CCFF00?style=flat-square&logoColor=000000"/>
+<img src="https://img.shields.io/badge/LangGraph-CCFF00?style=flat-square&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Claude_API-CCFF00?style=flat-square&logo=anthropic&logoColor=000000"/>
+<img src="https://img.shields.io/badge/OpenAI-CCFF00?style=flat-square&logo=openai&logoColor=000000"/>
+<img src="https://img.shields.io/badge/CrewAI-CCFF00?style=flat-square&logoColor=000000"/>
+<img src="https://img.shields.io/badge/n8n-CCFF00?style=flat-square&logo=n8n&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Pinecone-CCFF00?style=flat-square&logoColor=000000"/>
+<img src="https://img.shields.io/badge/FAISS-CCFF00?style=flat-square&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Scikit_Learn-CCFF00?style=flat-square&logo=scikitlearn&logoColor=000000"/>
+<img src="https://img.shields.io/badge/TensorFlow-CCFF00?style=flat-square&logo=tensorflow&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Pandas-CCFF00?style=flat-square&logo=pandas&logoColor=000000"/>
 </div>
 
 <br/>
 
-<!-- ======== TOP LANGUAGES ======== -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalaleem5&layout=compact&theme=dark&bg_color=0a0a0a&title_color=CCFF00&text_color=ffffff&border_color=1a2e05&hide_border=false&langs_count=6" width="50%"/>
-</div>
+### 🚀 Flagship Builds
 
+<table>
+<tr>
+<th align="left">Project</th>
+<th align="left">What it does</th>
+<th align="left">Impact</th>
+</tr>
+<tr>
+<td>🤖 <b>ZetaAgent</b></td>
+<td>LangGraph supervisor + sub-agents scrape, enrich, and run outreach end-to-end</td>
+<td><b>Replaced a full SDR team</b></td>
+</tr>
+<tr>
+<td>💰 <b>ZetaFin</b></td>
+<td>AI financial intelligence platform — real-time P&L, anomaly detection</td>
+<td><b>99.9% reconciliation accuracy</b></td>
+</tr>
+<tr>
+<td>📞 <b>AI Calling Agent</b></td>
+<td>Outbound voice agent with prompt-tuned qualification</td>
+<td><b>1,500+ calls/day @ 0.5s latency</b></td>
+</tr>
+<tr>
+<td>📲 <b>Aixen AI</b></td>
+<td>Unified WhatsApp + IG + FB + TikTok LLM messaging OS</td>
+<td><b>3x conversion lift</b></td>
+</tr>
+<tr>
+<td>🎯 <b>Clozr AI</b></td>
+<td>Discovery → enrichment → outreach → auto-closer pipeline</td>
+<td><b>4,200+ lead actions processed</b></td>
+</tr>
+<tr>
+<td>🎙️ <b>ZetAI</b></td>
+<td>Voice-activated execution agent — Whisper STT + Calendar/Gmail</td>
+<td><b>Hands-free task execution</b></td>
+</tr>
+</table>
+
+<details>
+<summary><b>📦 See 35+ more shipped builds (n8n, scraping, generative AI, 3D)</b></summary>
 <br/>
 
-<!-- ======== CONTRIBUTION CALENDAR (3D - Optional) ======== -->
-<details align="center">
-  <summary style="color:#CCFF00; font-size:18px; cursor:pointer;"><b>📅 3D Contribution Calendar (click to expand)</b></summary>
-  <br/>
-  <img src="./profile-3d-contrib/profile-night-green.svg" width="100%"/>
-  <br/><br/>
-  <i style="color:#888;">Setup: add <code>.github/workflows/profile-3d.yml</code> to enable auto-generation</i>
+**🔁 n8n Automation**
+AI Resume & Job Application System · Comprehensive Content Generation System · Email Leads Automation w/ Personalization · AI Cold Outreach & Followup · Business Process Automation (n8n+Make+Zapier) · News Aggregator & AI Analysis · Appointment Booking Voice Agent · Blogs Automation (JTL) · Email Labeling (OpenAI) · Telegram Data Extraction & Analysis · Reddit Content Filter & Notifier · Meme Generator Workflow
+
+**🤝 AI Agents**
+Multi-Agent System with Memory (Azure OpenAI) · AI Confidence Coach · Job Application Auto-Replier
+
+**🚗 Marketplace**
+Vehicle AI Listing System — automated scheduling + fraud detection
+
+**📱 Social Automation**
+Facebook Marketplace Bot · Instagram Automation Bot (Appium) · Instagram Unfollow Bot (PyQt) · Twitter Posting Bot · Telegram Bot Engine · Message Reply Bot
+
+**🎬 Generative AI**
+AI Viral Video Generation System · Stable Diffusion + ControlNet + LoRA Image Pipeline (ComfyUI, REST API)
+
+**🕷️ Scraping**
+Amazon Product Extractor · Are.na / Visuelle / Extraweg / Lovely Package / Logoed scrapers
+
+**🧊 3D / Procedural (Blender)**
+Geometry Nodes Wall Generator · ZigZag Curve · Procedural Asset Generation · Game Logic Visual Scripting
+
 </details>
 
 <br/>
 
-<!-- ======== SKILLS & TECH ======== -->
+### 📈 Activity
+
 <div align="center">
-  <h2 style="color:#CCFF00;">🛠️ Tech Arsenal</h2>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,js,ts,react,nextjs,tailwind,postgres,mongodb,docker,gcp,aws,git,linux&theme=dark&perline=8"/>
-  <br/>
-  <img src="https://img.shields.io/badge/LangChain-CCFF00?style=flat-square&logoColor=000000&labelColor=0a0a0a"/>
-  <img src="https://img.shields.io/badge/LangGraph-CCFF00?style=flat-square&logoColor=000000&labelColor=0a0a0a"/>
-  <img src="https://img.shields.io/badge/OpenAI-CCFF00?style=flat-square&logo=openai&logoColor=000000&labelColor=0a0a0a"/>
-  <img src="https://img.shields.io/badge/Claude_API-CCFF00?style=flat-square&logo=anthropic&logoColor=000000&labelColor=0a0a0a"/>
-  <img src="https://img.shields.io/badge/n8n-CCFF00?style=flat-square&logo=n8n&logoColor=000000&labelColor=0a0a0a"/>
-  <img src="https://img.shields.io/badge/Pinecone-CCFF00?style=flat-square&logoColor=000000&labelColor=0a0a0a"/>
-  <img src="https://img.shields.io/badge/TensorFlow-CCFF00?style=flat-square&logo=tensorflow&logoColor=000000&labelColor=0a0a0a"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bilalaleem5&theme=dark&hide_border=true&background=0a0a0a&ring=CCFF00&fire=CCFF00&currStreakLabel=CCFF00&sideLabels=ffffff&dates=cccccc" height="165"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bilalaleem5&theme=react-dark&bg_color=0a0a0a&color=CCFF00&line=CCFF00&point=ffffff&hide_border=true&area=true" width="95%"/>
 </div>
 
 <br/>
 
-<!-- ======== PROJECTS ======== -->
 <div align="center">
-  <h2 style="color:#CCFF00;">🚀 Flagship Projects</h2>
-</div>
 
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Impact</th>
-  </tr>
-  <tr>
-    <td>🤖 <b>Agentic AI Suite</b></td>
-    <td>Multi-agent orchestration using LangGraph for lead generation & outreach</td>
-    <td>Automated 80% SDR workload</td>
-  </tr>
-  <tr>
-    <td>💰 <b>FinAI Dashboard</b></td>
-    <td>Real-time P&L with anomaly detection & forecasting</td>
-    <td>99.7% accuracy in fraud flags</td>
-  </tr>
-  <tr>
-    <td>📞 <b>Voice AI Calling</b></td>
-    <td>Outbound voice agent with dynamic qualification</td>
-    <td>2,000+ calls/day, 0.4s latency</td>
-  </tr>
-</table>
+### 💬 Let's Talk
 
-<br/>
+I'm actively looking for **full-time / remote AI Engineering roles**. If your team needs someone who can take an agent from idea → production, let's talk.
 
-<!-- ======== CODING HABITS ======== -->
-<div align="center">
-  <h2 style="color:#CCFF00;">⚡ Coding Habits</h2>
-  <i>Automated via <a href="https://github.com/lowlighter/metrics" style="color:#CCFF00;">lowlight/metrics</a></i>
-  <br/><br/>
-  <!-- You can replace these with your own metrics images -->
-  <img src="https://metrics.lecoq.io/bilalaleem5?template=classic&activity=1&habits=1" width="70%"/>
-</div>
+<a href="https://www.linkedin.com/in/bilalaleem"><img src="https://img.shields.io/badge/Message_me_on_LinkedIn-CCFF00?style=for-the-badge&logo=linkedin&logoColor=000000"/></a>
+<a href="mailto:Bilal.aleem2406@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-CCFF00?style=for-the-badge&logo=gmail&logoColor=000000"/></a>
 
-<br/>
+<br/><br/>
 
-<!-- ======== CONNECT ======== -->
-<div align="center">
-  <h2 style="color:#CCFF00;">💬 Let's Connect</h2>
-  <p>I'm open to full‑time AI Engineering roles – let's build something impactful!</p>
-  <a href="https://www.linkedin.com/in/bilalaleem5"><img src="https://img.shields.io/badge/LinkedIn-CCFF00?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=0a0a0a"/></a>
-  <a href="mailto:bilal.aleem5@example.com"><img src="https://img.shields.io/badge/Email-CCFF00?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=0a0a0a"/></a>
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:CCFF00,50:1a2e05,100:0a0a0a&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CCFF00,50:1a2e05,100:0a0a0a&height=130&section=footer"/>
+
 </div>
