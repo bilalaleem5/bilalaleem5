@@ -7,6 +7,7 @@
 <a href="https://www.linkedin.com/in/bilalaleem"><img src="https://img.shields.io/badge/LinkedIn-CCFF00?style=for-the-badge&logo=linkedin&logoColor=000000"/></a>
 <a href="mailto:Bilal.aleem2406@gmail.com"><img src="https://img.shields.io/badge/Gmail-CCFF00?style=for-the-badge&logo=gmail&logoColor=000000"/></a>
 <a href="https://www.upwork.com/freelancers/~010614a79570ae4b31"><img src="https://img.shields.io/badge/Upwork-CCFF00?style=for-the-badge&logo=Upwork&logoColor=000000"/></a>
+<img src="https://komarev.com/ghpvc/?username=bilalaleem5&style=for-the-badge&color=CCFF00&label=VIEWS&abbreviated=true"/>
 
 </div>
 
@@ -37,22 +38,21 @@ status:        🟢 Open to full-time / remote roles
 ### 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=bilalaleem5&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=CCFF00&icon_color=CCFF00&text_color=ffffff&ring_color=CCFF00" height="175"/>
-<img src="https://streak-stats.demolab.com?user=bilalaleem5&hide_border=true&background=0d0d0d&ring=CCFF00&fire=CCFF00&currStreakLabel=CCFF00&sideLabels=ffffff&dates=888888&sideNums=CCFF00" height="175"/>
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalaleem5&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=CCFF00&text_color=ffffff&langs_count=8" height="160"/>
+<img src="./github-stats.svg" width="100%"/>
 </div>
 
 <br/>
 
-### 📅 Contribution Calendar
+### 🗓️ Contribution Calendar
 
 <div align="center">
-<img src="./github-metrics.svg" width="100%"/>
+
+```
+Every green block is a shipped feature, a fixed bug, or a deployed agent.
+```
+
+<img src="./github-calendar.svg" width="100%"/>
+
 </div>
 
 <br/>
