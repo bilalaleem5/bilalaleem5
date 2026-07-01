@@ -14,7 +14,7 @@
 
 ### 🧠 About Me
 
-I build **production AI systems** — multi-agent pipelines that don't just demo well, they run in production, handle edge cases, and replace actual headcount. Final-year Data Science student shipping for global clients across the US, EU, and APAC.
+I build **production AI systems** — multi-agent pipelines that don't just demo well, they run in production, handle edge cases, and replace actual headcount. Final-year Data Science student shipping for global clients across US, EU, and APAC.
 
 ```yaml
 role:          AI Engineer
@@ -28,7 +28,28 @@ status:        🟢 Open to full-time / remote roles
 
 <br/>
 
-### 📊 GitHub Metrics
+### ⚡ Agent in Action
+
+<img src="./coding.svg" width="100%"/>
+
+<br/>
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=bilalaleem5&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=CCFF00&icon_color=CCFF00&text_color=ffffff&ring_color=CCFF00" height="175"/>
+<img src="https://streak-stats.demolab.com?user=bilalaleem5&hide_border=true&background=0d0d0d&ring=CCFF00&fire=CCFF00&currStreakLabel=CCFF00&sideLabels=ffffff&dates=888888&sideNums=CCFF00" height="175"/>
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalaleem5&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=CCFF00&text_color=ffffff&langs_count=8" height="160"/>
+</div>
+
+<br/>
+
+### 📅 Contribution Calendar
 
 <div align="center">
 <img src="./github-metrics.svg" width="100%"/>
@@ -101,7 +122,7 @@ status:        🟢 Open to full-time / remote roles
 </table>
 
 <details>
-<summary><b>📦 35+ more builds — click to expand</b></summary>
+<summary><b>📦 35+ more shipped builds — click to expand</b></summary>
 <br/>
 
 **🔁 n8n Automation**
@@ -133,9 +154,13 @@ Geometry Nodes Wall Generator · ZigZag Curve · Procedural Asset Gen · Game Lo
 
 ### 💬 Let's Talk
 
-Looking for a **full-time / remote AI Engineer** who ships? Let's connect.
+Looking for a **full-time / remote AI Engineer** who ships from idea to production? Let's connect.
 
 <a href="https://www.linkedin.com/in/bilalaleem"><img src="https://img.shields.io/badge/Message_on_LinkedIn-CCFF00?style=for-the-badge&logo=linkedin&logoColor=000000"/></a>
 <a href="mailto:Bilal.aleem2406@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-CCFF00?style=for-the-badge&logo=gmail&logoColor=000000"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CCFF00,50:1a2e05,100:0a0a0a&height=120&section=footer"/>
 
 </div>
