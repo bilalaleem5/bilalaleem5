@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a2e05,100:CCFF00&height=250&section=header&text=BILAL%20ALEEM&fontSize=52&fontColor=CCFF00&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%94%20Multi-Agent%20Systems%20%26%20LLM%20Automation&descAlignY=58&descSize=17&descColor=ffffff" width="100%"/>
-
-**LangChain · LangGraph · RAG Pipelines · n8n · Voice AI · LLM Ops**
-<br/>
-🟢 Open to Full-Time / Remote AI Engineering Roles
+<img src="./header.svg" width="100%"/>
 
 <br/>
 
@@ -18,26 +14,25 @@
 
 ### 🧠 About Me
 
-I build **production AI systems** — multi-agent pipelines that don't just demo well, they run in production, handle edge cases, and replace actual headcount. Final-year Data Science student shipping for clients across the US, EU, and APAC.
+I build **production AI systems** — multi-agent pipelines that don't just demo well, they run in production, handle edge cases, and replace actual headcount. Final-year Data Science student shipping for global clients across the US, EU, and APAC.
 
 ```yaml
 role:          AI Engineer
 location:      Islamabad, Pakistan 🇵🇰
 experience:    3+ years | 60+ projects shipped
 stack:         LangGraph · LangChain · Claude API · FastAPI · n8n
-currently:     Final-year @ FAST-NUCES (Expected June 2026)
+education:     Final-year Data Science @ FAST-NUCES (June 2026)
 daily_driver:  Claude Code ⚡ (4-5 hrs/day)
+status:        🟢 Open to full-time / remote roles
 ```
 
 <br/>
 
-### 📊 Live Metrics Dashboard
+### 📊 GitHub Metrics
 
 <div align="center">
 <img src="./github-metrics.svg" width="100%"/>
 </div>
-
-> Auto-generated daily — 3D contribution calendar, language breakdown, commit habits, and achievements.
 
 <br/>
 
@@ -75,17 +70,17 @@ daily_driver:  Claude Code ⚡ (4-5 hrs/day)
 </tr>
 <tr>
 <td>🤖 <b>ZetaAgent</b></td>
-<td>LangGraph supervisor + sub-agents scrape, enrich, and run outreach end-to-end</td>
-<td><b>Replaced a full SDR team</b></td>
+<td>LangGraph supervisor + sub-agents: scrape, enrich, outreach end-to-end</td>
+<td><b>Replaced full SDR team</b></td>
 </tr>
 <tr>
 <td>💰 <b>ZetaFin</b></td>
-<td>AI financial intelligence platform — real-time P&L, anomaly detection</td>
+<td>AI financial platform — real-time P&L, anomaly detection, audit pipeline</td>
 <td><b>99.9% reconciliation accuracy</b></td>
 </tr>
 <tr>
 <td>📞 <b>AI Calling Agent</b></td>
-<td>Outbound voice agent with prompt-tuned qualification</td>
+<td>Outbound voice agent with prompt-tuned lead qualification</td>
 <td><b>1,500+ calls/day @ 0.5s latency</b></td>
 </tr>
 <tr>
@@ -95,40 +90,40 @@ daily_driver:  Claude Code ⚡ (4-5 hrs/day)
 </tr>
 <tr>
 <td>🎯 <b>Clozr AI</b></td>
-<td>Discovery → enrichment → outreach → auto-closer pipeline</td>
+<td>Discovery → enrichment → AI copy → outreach → auto-closer</td>
 <td><b>4,200+ lead actions processed</b></td>
 </tr>
 <tr>
 <td>🎙️ <b>ZetAI</b></td>
-<td>Voice-activated execution agent — Whisper STT + Calendar/Gmail</td>
+<td>Voice-to-action agent — Whisper STT + Calendar/Gmail APIs</td>
 <td><b>Hands-free task execution</b></td>
 </tr>
 </table>
 
 <details>
-<summary><b>📦 See 35+ more shipped builds (n8n, scraping, generative AI, 3D)</b></summary>
+<summary><b>📦 35+ more builds — click to expand</b></summary>
 <br/>
 
 **🔁 n8n Automation**
-AI Resume & Job Application System · Comprehensive Content Generation System · Email Leads Automation w/ Personalization · AI Cold Outreach & Followup · Business Process Automation (n8n+Make+Zapier) · News Aggregator & AI Analysis · Appointment Booking Voice Agent · Blogs Automation (JTL) · Email Labeling (OpenAI) · Telegram Data Extraction & Analysis · Reddit Content Filter & Notifier · Meme Generator Workflow
+AI Resume & Job Application System · Content Generation System · Email Leads w/ Personalization · AI Cold Outreach & Followup · Business Process Automation (n8n+Make+Zapier) · News Aggregator & AI Analysis · Appointment Booking Voice Agent · Blogs Automation · Email Labeling (OpenAI) · Telegram Data Extraction · Reddit Content Filter · Meme Generator
 
 **🤝 AI Agents**
 Multi-Agent System with Memory (Azure OpenAI) · AI Confidence Coach · Job Application Auto-Replier
 
-**🚗 Marketplace**
-Vehicle AI Listing System — automated scheduling + fraud detection
+**🚗 AI Marketplace**
+Vehicle AI Listing System — fraud detection + automated scheduling
 
 **📱 Social Automation**
 Facebook Marketplace Bot · Instagram Automation Bot (Appium) · Instagram Unfollow Bot (PyQt) · Twitter Posting Bot · Telegram Bot Engine · Message Reply Bot
 
 **🎬 Generative AI**
-AI Viral Video Generation System · Stable Diffusion + ControlNet + LoRA Image Pipeline (ComfyUI, REST API)
+AI Viral Video Generation System · Stable Diffusion + ControlNet + LoRA Pipeline (ComfyUI REST API)
 
 **🕷️ Scraping**
 Amazon Product Extractor · Are.na / Visuelle / Extraweg / Lovely Package / Logoed scrapers
 
-**🧊 3D / Procedural (Blender)**
-Geometry Nodes Wall Generator · ZigZag Curve · Procedural Asset Generation · Game Logic Visual Scripting
+**🧊 3D / Blender**
+Geometry Nodes Wall Generator · ZigZag Curve · Procedural Asset Gen · Game Logic Visual Scripting
 
 </details>
 
@@ -138,13 +133,9 @@ Geometry Nodes Wall Generator · ZigZag Curve · Procedural Asset Generation · 
 
 ### 💬 Let's Talk
 
-I'm actively looking for **full-time / remote AI Engineering roles**. If your team needs someone who can take an agent from idea → production, let's talk.
+Looking for a **full-time / remote AI Engineer** who ships? Let's connect.
 
-<a href="https://www.linkedin.com/in/bilalaleem"><img src="https://img.shields.io/badge/Message_me_on_LinkedIn-CCFF00?style=for-the-badge&logo=linkedin&logoColor=000000"/></a>
+<a href="https://www.linkedin.com/in/bilalaleem"><img src="https://img.shields.io/badge/Message_on_LinkedIn-CCFF00?style=for-the-badge&logo=linkedin&logoColor=000000"/></a>
 <a href="mailto:Bilal.aleem2406@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-CCFF00?style=for-the-badge&logo=gmail&logoColor=000000"/></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CCFF00,50:1a2e05,100:0a0a0a&height=130&section=footer"/>
 
 </div>
