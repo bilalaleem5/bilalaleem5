@@ -38,20 +38,38 @@ status:        🟢 Open to full-time / remote roles
 ### 📊 GitHub Stats
 
 <div align="center">
-<img src="./github-stats.svg" width="100%"/>
+
+<img src="https://streak-stats.demolab.com?user=bilalaleem5&hide_border=true&background=0d0d0d&ring=CCFF00&fire=CCFF00&currStreakLabel=CCFF00&sideLabels=ffffff&dates=888888&sideNums=CCFF00&currStreakNum=CCFF00" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalaleem5&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=CCFF00&text_color=ffffff&langs_count=8" height="180"/>
+
 </div>
 
 <br/>
 
-### 🗓️ Contribution Calendar
+### 🗓️ Contribution Activity
 
 <div align="center">
 
-```
-Every green block is a shipped feature, a fixed bug, or a deployed agent.
-```
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bilalaleem5&theme=react-dark&bg_color=0d0d0d&color=CCFF00&line=CCFF00&point=ffffff&hide_border=true&area=true&area_color=CCFF00" width="100%"/>
 
+</div>
+
+<br/>
+
+<div align="center">
 <img src="./github-calendar.svg" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+> *Every green block is a shipped feature, a fixed bug, or a deployed agent.*
+
+<br/>
+
+<img src="./github-snake-dark.svg" width="100%"/>
 
 </div>
 
