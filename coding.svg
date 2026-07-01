@@ -1,0 +1,85 @@
+<svg viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg" width="100%">
+  <defs>
+    <style>
+      @keyframes fadeIn { from { opacity:0; transform:translateX(-8px); } to { opacity:1; transform:translateX(0); } }
+      @keyframes blink  { 0%,100%{opacity:1} 50%{opacity:0} }
+      @keyframes pulse  { 0%,100%{opacity:0.4} 50%{opacity:1} }
+
+      .l1  { opacity:0; animation: fadeIn .4s ease forwards .6s; }
+      .l2  { opacity:0; animation: fadeIn .4s ease forwards 1.4s; }
+      .l3  { opacity:0; animation: fadeIn .4s ease forwards 2.0s; }
+      .l4  { opacity:0; animation: fadeIn .4s ease forwards 2.6s; }
+      .l5  { opacity:0; animation: fadeIn .4s ease forwards 3.2s; }
+      .l6  { opacity:0; animation: fadeIn .4s ease forwards 3.9s; }
+      .l7  { opacity:0; animation: fadeIn .4s ease forwards 4.6s; }
+      .l8  { opacity:0; animation: fadeIn .4s ease forwards 5.2s; }
+      .l9  { opacity:0; animation: fadeIn .4s ease forwards 5.8s; }
+      .l10 { opacity:0; animation: fadeIn .4s ease forwards 6.5s; }
+      .l11 { opacity:0; animation: fadeIn .4s ease forwards 7.2s; }
+
+      .cursor { animation: blink 1s infinite; }
+      .dot    { animation: pulse 2s infinite; }
+    </style>
+  </defs>
+
+  <!-- Terminal window bg -->
+  <rect width="800" height="300" rx="14" fill="#0d0d0d" stroke="#CCFF00" stroke-width="1.2" stroke-opacity="0.35"/>
+
+  <!-- Title bar -->
+  <rect width="800" height="40" rx="14" fill="#181818"/>
+  <rect y="26" width="800" height="14" fill="#181818"/>
+
+  <!-- Traffic lights -->
+  <circle cx="26" cy="20" r="6.5" fill="#ff5f57"/>
+  <circle cx="48" cy="20" r="6.5" fill="#febc2e"/>
+  <circle cx="70" cy="20" r="6.5" fill="#28c840"/>
+
+  <!-- Tab label -->
+  <text x="400" y="25" font-family="Fira Code,monospace" font-size="12" fill="#666" text-anchor="middle">zeta-agent — supervisor.py</text>
+
+  <!-- Divider -->
+  <line x1="0" y1="40" x2="800" y2="40" stroke="#CCFF00" stroke-width="0.5" stroke-opacity="0.2"/>
+
+  <!-- Code lines -->
+  <text class="l1" x="24" y="68" font-family="Fira Code,monospace" font-size="13.5" fill="#CCFF00">$ python supervisor.py --env prod</text>
+
+  <text class="l2" x="24" y="93" font-family="Fira Code,monospace" font-size="13" fill="#4fc3f7">
+    <tspan fill="#666">[</tspan>ZetaAgent<tspan fill="#666">]</tspan> Initializing LangGraph supervisor...
+  </text>
+
+  <text class="l3" x="24" y="115" font-family="Fira Code,monospace" font-size="13" fill="#888">
+    → Tools loaded: web_scraper · gmail · calendar · postgres
+  </text>
+
+  <text class="l4" x="24" y="137" font-family="Fira Code,monospace" font-size="13" fill="#888">
+    → FAISS index: <tspan fill="#CCFF00">4,200 vectors</tspan>  ready  <tspan fill="#28c840">✓</tspan>
+  </text>
+
+  <text class="l5" x="24" y="159" font-family="Fira Code,monospace" font-size="13" fill="#888">
+    → LangGraph state machine compiled  <tspan fill="#28c840">✓</tspan>
+  </text>
+
+  <text class="l6" x="24" y="182" font-family="Fira Code,monospace" font-size="13" fill="#CCFF00">
+    <tspan fill="#666">[</tspan>Task<tspan fill="#666">]</tspan>  "Find 50 fintech leads → qualify → draft outreach"
+  </text>
+
+  <text class="l7" x="24" y="204" font-family="Fira Code,monospace" font-size="13" fill="#888">
+    <tspan fill="#444">↳</tspan> Scraping Google Maps ...  <tspan fill="#4fc3f7">47 results</tspan>
+  </text>
+
+  <text class="l8" x="24" y="226" font-family="Fira Code,monospace" font-size="13" fill="#888">
+    <tspan fill="#444">↳</tspan> LinkedIn enrichment .......  <tspan fill="#4fc3f7">done</tspan>
+  </text>
+
+  <text class="l9" x="24" y="248" font-family="Fira Code,monospace" font-size="13" fill="#888">
+    <tspan fill="#444">↳</tspan> Generating personalized copy  <tspan fill="#4fc3f7">done</tspan>
+  </text>
+
+  <text class="l10" x="24" y="270" font-family="Fira Code,monospace" font-size="13" fill="#28c840">
+    [✓]  Campaign live. 50 leads qualified. 0 manual effort.
+  </text>
+
+  <text class="l11" x="24" y="290" font-family="Fira Code,monospace" font-size="13.5" fill="#CCFF00">
+    $ <tspan class="cursor">▋</tspan>
+  </text>
+</svg>
