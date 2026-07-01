@@ -6,7 +6,6 @@
 
 <a href="https://www.linkedin.com/in/bilalaleem"><img src="https://img.shields.io/badge/LinkedIn-CCFF00?style=for-the-badge&logo=linkedin&logoColor=000000"/></a>
 <a href="mailto:Bilal.aleem2406@gmail.com"><img src="https://img.shields.io/badge/Gmail-CCFF00?style=for-the-badge&logo=gmail&logoColor=000000"/></a>
-<a href="https://www.upwork.com/freelancers/~010614a79570ae4b31"><img src="https://img.shields.io/badge/Upwork-CCFF00?style=for-the-badge&logo=Upwork&logoColor=000000"/></a>
 <img src="https://komarev.com/ghpvc/?username=bilalaleem5&style=for-the-badge&color=CCFF00&label=VIEWS&abbreviated=true"/>
 
 </div>
